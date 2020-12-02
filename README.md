@@ -1,8 +1,8 @@
-# setUpTypesCriptBackend
+# :computer:  setUpTypesCriptBackend
 
-my set up project for backend typescript on ubuntu
+ my set up project for backend typescript on ubuntu
 
-### usgae
+### :pushpin: usage
 ```bash
 git clone git@github.com:nicolaskruger/setUpTypesCriptBackend.git
 ```
