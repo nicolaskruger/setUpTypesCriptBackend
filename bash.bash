@@ -20,4 +20,4 @@ npm install @types/body-parser --save-dev
  
 rm -r -f ./.git
 rm README.md
-rm setUp.bash
+rm bash.bash
