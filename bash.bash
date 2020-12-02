@@ -18,6 +18,6 @@ npm install ts-node-dev --save-dev
 npm install body-parser
 npm install @types/body-parser --save-dev
  
-rm -r ./.git
+rm -r -f ./.git
 rm README.md
 rm setUp.bash
